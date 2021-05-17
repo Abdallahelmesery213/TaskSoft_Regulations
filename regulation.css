@@ -1,0 +1,29 @@
+/* start regulations */
+.Contacts-logo {
+  border: 8px solid rgb(242 242 242);
+  padding: 40px;
+  margin-left: 40px;
+  background-color: #fff;
+  margin: 35px 0;
+}
+
+.icons-happy-team-first .body-inside {
+  border: 1px solid rgb(219 219 219);
+  border-bottom: 7px solid rgb(86 97 177);
+  margin: 0;
+  height: 95px;
+  padding-right: 10px;
+}
+/* end regulations */
+
+/* start Happy Teams */
+.icons-happy-team .body {
+  border: 1.5px solid rgb(219 219 219);
+  padding: 10px 20px;
+  height: 90px;
+}
+.icons-happy-team .body .body-inside {
+  border-left: 5px solid rgb(255 162 0);
+  margin-left: 0;
+}
+/* end Happy Teams */
